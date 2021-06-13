@@ -1,0 +1,41 @@
+# if equals to
+if condition x == y:
+     print('')
+else:
+ print('')
+
+# if greater than
+if condition x>= y:
+     print('')
+else:
+ print('')
+
+# if less than
+if condition x <= y:
+     print('')
+else:
+ print('')
+
+#if not equal to 
+if condition x != y:
+     print('')
+else:
+ print('')
+
+
+#if and 
+if condition x == y and x + y == z:
+     print('')
+  elif: 
+     print('')
+else:
+ print('')
+ 
+ 
+ #if or 
+if condition x == y or x + y == z:
+     print('')
+  elif: 
+     print('')
+else:
+ print('')
