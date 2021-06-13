@@ -1,0 +1,6 @@
+loop = True
+ while loop:
+   name == input('please enter your name')
+    if name = 'stop'
+     loop = False
+     break
