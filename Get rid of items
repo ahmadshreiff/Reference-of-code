@@ -1,0 +1,6 @@
+phone_number = "70-02386-920-29-9"
+
+for i in phone_number:
+    if i == "-":
+        continue
+    print(i, end='')
