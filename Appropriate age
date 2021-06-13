@@ -1,0 +1,11 @@
+age = 0
+while age == 0:
+    input_value = input("Please enter your age: ")
+    try:
+        age = int(input_value)
+    except ValueError:        
+        print("{input} is not a number, please enter a number only".format(input=input_value))
+        if age >= 18:
+    print("You are able to vote in the United States!")
+else:
+    print("You are not able to vote in the United States.")
