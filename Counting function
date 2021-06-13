@@ -1,0 +1,2 @@
+for x in range (num1, finalnum, diff):
+    print (x)
